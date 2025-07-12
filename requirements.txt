@@ -1,0 +1,8 @@
+python-dotenv~=1.1.1
+langchain~=0.3.26
+langchain-community~=0.3.26
+streamlit~=1.46.1
+langchain-chroma
+langchain-groq
+langchain-community
+langchain-huggingface
